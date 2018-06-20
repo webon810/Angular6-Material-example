@@ -23,13 +23,13 @@ import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 }
 ```
 
-// add mterial.ts - new file  
-// /app/material.ts  
+add mterial.ts - new file  
+/app/material.ts  
 ```
 import { NgModule } from '@angular/core';
 ```
 
-//under styles.scss - add following  
+under styles.scss - add following  
 ```
 @import "~@angular/material/prebuilt-themes/indigo-pink.css";
 ```
