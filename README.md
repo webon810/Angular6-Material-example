@@ -55,8 +55,8 @@ $ ng serve -o
 ## Update from ng6 to ng7
 
 ```
-$ npm i @angular/cli -g   //global
-$ npm install --save-dev @angular/cli@latest  //local
+$ npm i @angular/cli -g   //global ng version is 7 first
+$ npm install --save-dev @angular/cli@latest  //local install latest version from global for existing ng6 app 
 $ ng update @angular/cli @angular/core
 ```
 
