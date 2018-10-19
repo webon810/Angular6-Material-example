@@ -1,4 +1,4 @@
-# Angular6-Material-example
+# Angular6to7-Material-example
 Angular6-Material-example  
 
 ## What you'll need
