@@ -2,7 +2,7 @@
 Angular6-Material-example  
 
 ## What you'll need
-- ng v6.0.8  
+- ng v6-v7 
 
 ## Add dependency 
 
@@ -49,10 +49,17 @@ import { MatMenuModule } from '@angular/material/menu';
 
 export class MaterialModule { }
 ```
-
-
 ## Run
-$ ng serve -o  
+$ ng serve -o 
+
+## Update from ng6 to ng7
+
+```
+$ npm i @angular/cli -g   //global
+$ npm install --save-dev @angular/cli@latest  //local
+$ ng update @angular/cli @angular/core
+```
+
 
 [angular-components] (https://material.angular.io/components/categories)  
 [angular-components-api] (https://material.angular.io/components/toolbar/api)  
